@@ -242,6 +242,21 @@ http://127.0.0.1:8000/docs
 ![Swagger Docs](screenshots/swagger-docs.png)
 
 
+## Live Demo
+
+### Frontend Application
+
+https://ai-powered-placement-cell-faq-chatb.vercel.app/
+
+### Backend API
+
+https://ai-powered-placement-cell-faq-chatbot.onrender.com/
+
+### Swagger Documentation
+
+https://ai-powered-placement-cell-faq-chatbot.onrender.com/docs
+
+
 ## Future Scope
 
 ### NLP Integration
