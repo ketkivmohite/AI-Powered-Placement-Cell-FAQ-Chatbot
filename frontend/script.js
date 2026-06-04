@@ -69,9 +69,7 @@ async function loadChatHistory() {
 
     try {
 
-        const response = await fetch(
-            "http://127.0.0.1:8000/chat-history"
-        );
+        const response = await fetch("https://ai-powered-placement-cell-faq-chatbot.onrender.com/chat-history")
 
         const chats = await response.json();
 
